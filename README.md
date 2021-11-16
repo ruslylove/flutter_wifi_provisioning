@@ -1,4 +1,4 @@
-# esp_provisioning_example
+# flutter_wifi_provisioning
 
 Demonstrates how to use the esp_provisioning plugin.
 
